@@ -19,7 +19,7 @@ This project demonstrates how to use **SQL inside Python** to analyze sales data
 
 | File | Description |
 |------|-------------|
-| `superstore_sales_analysis.ipynb` | Jupyter Notebook with step-by-step code |
+| `[Super_Store_Sales](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/Super_Store_Sales.ipynb)` | Jupyter Notebook with step-by-step code |
 | `Superstore_Sales.csv` | Input CSV file containing sales data |
 | `README.md` | Project overview and usage instructions |
 
