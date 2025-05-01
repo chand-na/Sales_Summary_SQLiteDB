@@ -21,7 +21,7 @@ This project demonstrates how to use **SQL inside Python** to analyze sales data
 |------|-------------|
 | [Super_Store_Sales](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/Super_Store_Sales.ipynb) | Jupyter Notebook with step-by-step code |
 | [Superstore_Sales_raw-file](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/Superstore_Sales_raw-file.csv) | Input CSV file containing sales data |
-| [Bar Chart](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/README.md) | Top 10 Products by Revenue - Bar Chart |
+| [Bar Chart](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/Top_10_products_by_revenue.png) | Top 10 Products by Revenue - Bar Chart |
 | [README](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/README.md) | Project overview and usage instructions |
 
 ---
@@ -59,6 +59,12 @@ This project demonstrates how to use **SQL inside Python** to analyze sales data
 - Printed sales summary (top products)
 
 - Bar chart: Top 10 products by revenue
+
+## 📈 Visualization
+
+Below is a bar chart showing the top 10 products by total revenue:
+
+![Top 10 Products by Revenue](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/Top_10_products_by_revenue.png)
 
 ## 📬 Contact
 For questions or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chandana-sr-analytics/).
