@@ -60,11 +60,6 @@ This project demonstrates how to use **SQL inside Python** to analyze sales data
 
 - Bar chart: Top 10 products by revenue
 
-## 📈 Visualization
-
-Below is a bar chart showing the top 10 products by total revenue:
-
-![Top 10 Products by Revenue](https://github.com/chand-na/Sales_Summary_SQLiteDB/blob/main/Top_10_products_by_revenue.png)
 
 ## 📬 Contact
 For questions or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/chandana-sr-analytics/).
