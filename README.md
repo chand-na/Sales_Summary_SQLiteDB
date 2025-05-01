@@ -1,4 +1,4 @@
-# 🛍️ Superstore Sales Analysis
+# 🛍️ Superstore Sales Summary
 
 This project demonstrates how to use **SQL inside Python** to analyze sales data stored in a **SQLite database** and visualize key metrics using **matplotlib** and **seaborn**.
 
@@ -33,8 +33,9 @@ This project demonstrates how to use **SQL inside Python** to analyze sales data
    cd Sales_Summary_SQLiteDB
    ```
 2. Open the Jupyter Notebook:
+   ```
    jupyter notebook Super_Store_Sales.ipynb
-
+   ```
 3. Run each cell in order:
 
 - Load the CSV and create the SQLite database
