@@ -25,6 +25,24 @@ This project demonstrates how to use **SQL inside Python** to analyze sales data
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chand-na/Sales_Summary_SQLiteDB.git
+   cd Sales_Summary_SQLiteDB
+   ```
+2. Open the Jupyter Notebook:
+   jupyter notebook Super_Store_Sales.ipynb
+
+3. Run each cell in order:
+
+- Load the CSV and create the SQLite database
+
+- Run SQL queries to summarize data
+
+- Display output and generate bar chart
+
 ## 🛠️ Libraries Used
 - pandas
 
